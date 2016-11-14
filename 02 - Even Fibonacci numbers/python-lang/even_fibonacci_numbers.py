@@ -1,4 +1,4 @@
-LIMIT = 4 * 10**6
+LIMIT = 4e6
 
 penult_term = 1
 last_term = 0

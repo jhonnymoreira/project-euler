@@ -1,3 +1,4 @@
+#!/home/jhonnymoreira/.rbenv/shims/ruby
 require 'fileutils'
 
 EXTENSIONS = {

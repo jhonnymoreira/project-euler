@@ -22,7 +22,7 @@ Now you can execute the script like this:
 ./problem_structure.rb problem_name lang_name1 ... lang_nameN
 ```
 
-Until now, the only files supported is:
+Until now, the only files supported are:
 * Crystal
 * Python
 * Ruby

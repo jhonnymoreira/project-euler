@@ -1,4 +1,4 @@
-#!/home/jhonnymoreira/.rbenv/shims/ruby
+#!/usr/bin/env ruby
 require 'fileutils'
 
 EXTENSIONS = {
